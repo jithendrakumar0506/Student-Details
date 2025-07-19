@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Student{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.buttons{
+    color: white;
+    gap: 70px;
+    height: 40px;
+    width:180px;
+    background-color:rgb(15, 214, 228);
+    border-radius: 5px;
+    text-align: auto;
+    margin:8px;
+}
+.buttons:hover{
+    background-color: rgb(4, 62, 66);
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+    color: rgb(4, 1, 5);
+}
